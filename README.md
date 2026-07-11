@@ -1,5 +1,7 @@
 # CPE-031---CPE21S2---Visualization-and-Data-Analysis---Deoferio
 # Student Info
+<table>
+  <tr>
 Deoferio, Jan Zachary Brice P. 
 
 # Description
